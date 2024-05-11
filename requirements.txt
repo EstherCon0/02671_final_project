@@ -1,0 +1,12 @@
+wandb
+ruamel.yaml
+configmypy
+tensorly
+tensorly-torch
+torch-harmonics
+matplotlib
+opt-einsum
+h5py
+zarr
+neuraloperator
+ipykernel
